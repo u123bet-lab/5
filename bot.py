@@ -43,7 +43,7 @@ def main_keyboard() -> InlineKeyboardMarkup:
         [InlineKeyboardButton("🏠 About 658pay", callback_data="about"), InlineKeyboardButton("💰 How To Earn", callback_data="earn")],
         [InlineKeyboardButton("📋 View Task Details", url="https://bittaro.io"), InlineKeyboardButton("📢 Join TG Channel", url="https://t.me/DNYXW006"),],
         [InlineKeyboardButton("💳 Deposit Issues", callback_data="deposit_menu"), InlineKeyboardButton("💸 Withdrawal Issues", callback_data="withdraw_menu")],
-        [InlineKeyboardButton("👥 Agent Commission", callback_data="agent_menu"), InlineKeyboardButton("💬 Contact Support", callback_data="contact")],
+        [InlineKeyboardButton("👥 Agent Commission", callback_data="agent_menu"), InlineKeyboardButton("💬 Contact Support", url="https://t.me/ID658pay")],
     ])
 
 
