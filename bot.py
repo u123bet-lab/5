@@ -25,7 +25,7 @@ FAQ = {
     "deposit_menu": ("Deposit Issues", "Choose an issue below:"),
     "withdraw_menu": ("Withdrawal Issues", "Choose an issue below:"),
     "agent_menu": ("Agent Commission", "Choose an item below:"),
-    "contact": ("Contact Support", "Send your question, screenshot, receipt, image, video, or file directly to this bot. Include your User ID or order number for a specific transaction.\n\nYour message will be forwarded to 658pay support. Please never send passwords or OTP codes."),
+    "contact": ("Contact Support", "https://t.me/ID658pay"),
     "dep_new": ("No New Orders", "Available orders may already have been claimed. Please wait for the system to release new orders and check again later."),
     "dep_occupied": ("Order Is Occupied", "This order has already been claimed by another member. Please try another available order when one is released."),
     "dep_pending": ("Deposit Pending", "Please allow time for the bank or payment provider to process the transaction. If it remains pending unusually long, contact support with the order information."),
